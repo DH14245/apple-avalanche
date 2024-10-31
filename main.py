@@ -178,6 +178,7 @@ def respawn_fruit():
   
   wn.ontimer(respawn_fruit, 100)
 
+#this is a change
 
 #-----function calls-----
 
